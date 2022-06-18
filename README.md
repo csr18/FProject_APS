@@ -12,7 +12,6 @@
 In this classification supervised machine learning proyect, we predict airlines passengers satisfaction using different models like Random Forest, Support Vector Machine, Logistic Regression and Naive Bayes.
 
 
-#### Data Source
+#### DataSet
 
-https://www.kaggle.com/datasets/binaryjoker/airline-passenger-satisfaction
-
+- [Link](https://www.kaggle.com/datasets/binaryjoker/airline-passenger-satisfaction)
